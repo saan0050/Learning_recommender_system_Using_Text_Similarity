@@ -1,53 +1,50 @@
-# Learning_recommender_system_Using_Text_Similarity
-Helps to retrieve the content required by user from the listed modules and recommend 3 modules.
-Using Text Similarity & NLP.
+📚 Learning Recommender System Using Text Similarity
 
-It isPython-based intelligent recommendation system that suggests relevant learning content based on user input. It leverages Natural Language Processing (NLP) and text similarity techniques to match user interests with the most suitable courses.
+A Python-based intelligent recommendation system that retrieves relevant learning content from predefined modules and recommends the top 3 most suitable modules based on user input.
 
-## Features
-#Smart Course Recommendations
-   Suggests relevant courses based on user input using text similarity
-#NLP-Based Processing
-   Includes tokenization, stopword removal, lemmatization, and POS tagging
-#TF-IDF Vectorization
-   Converts text data into numerical form for similarity comparison
-#Cosine Similarity Matching
-   Finds the most relevant courses based on similarity scores
-#Predefined Course Dataset
-   Includes curated AI, ML, and NLP-related courses
+It leverages Natural Language Processing (NLP) and text similarity techniques to match user interests with the most appropriate learning resources.
 
-#Technologies Used
+🚀 Features
+Smart Course Recommendations
+Suggests relevant courses based on user input using text similarity
+NLP-Based Processing
+Includes tokenization, stopword removal, lemmatization, and POS tagging
+TF-IDF Vectorization
+Converts text data into numerical form for similarity comparison
+Cosine Similarity Matching
+Finds the most relevant courses based on similarity scores
+Predefined Course Dataset
+Includes curated AI, ML, and NLP-related courses
+🛠️ Technologies Used
 Python
 NLTK (Natural Language Toolkit)
 spaCy
 Scikit-learn
-NumPy & Pandas
-
-#Project Structure
+NumPy
+Pandas
+📂 Project Structure
 learning-recommender/
 │
 ├── learning_recommender.py   # Main Python script
 └── README.md                 # Project documentation
-
-#How It Works
+⚙️ How It Works
 User provides input (skills, interests, or query text)
 Text is preprocessed using NLP techniques
 TF-IDF converts text into vectors
 Cosine similarity compares user input with course descriptions
-Top matching courses are recommended
-
-#Example Use Case
+Top 3 matching courses are recommended
+▶️ Example Use Case
 
 Input:
-"I want to learn deep learning and neural networks"
+
+I want to learn deep learning and neural networks
 
 Output:
+
 Recommended Courses:
 - Deep Learning and Neural Networks
 - Machine Learning Basics
-Note
-Make sure NLTK datasets are downloaded automatically during execution
+- Introduction to AI
+⚠️ Note
+Ensure NLTK datasets are downloaded during execution
 Internet may be required initially for model downloads
-📜 License
-
-This project is open-source and free to use for educational purposes.
