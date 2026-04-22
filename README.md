@@ -1,4 +1,4 @@
-# 📚 Learning Recommender System Using Text Similarity  
+#  Learning Recommender System Using Text Similarity  
 
 A Python-based intelligent recommendation system that retrieves relevant learning content from predefined modules and recommends the top **3 most suitable modules** based on user input.
 
@@ -6,7 +6,7 @@ It leverages **Natural Language Processing (NLP)** and **text similarity techniq
 
 ---
 
-## 🚀 Features  
+##  Features  
 
 - **Smart Course Recommendations**  
   Suggests relevant courses based on user input using text similarity  
@@ -25,7 +25,7 @@ It leverages **Natural Language Processing (NLP)** and **text similarity techniq
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 
 - Python  
 - NLTK (Natural Language Toolkit)  
@@ -38,7 +38,7 @@ It leverages **Natural Language Processing (NLP)** and **text similarity techniq
 
 ---
 
-## ⚙️ How It Works  
+## How It Works  
 
 1. User provides input (skills, interests, or query text)  
 2. Text is preprocessed using NLP techniques  
@@ -48,8 +48,8 @@ It leverages **Natural Language Processing (NLP)** and **text similarity techniq
 
 ---
 
-## ▶️ Example Use Case  
+## Example Use Case  
 
 **Input:**  
 
-## 📂 Project Structure  
+## Project Structure  
