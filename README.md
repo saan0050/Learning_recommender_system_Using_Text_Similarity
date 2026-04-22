@@ -4,16 +4,16 @@ Using Text Similarity & NLP.
 
 It isPython-based intelligent recommendation system that suggests relevant learning content based on user input. It leverages Natural Language Processing (NLP) and text similarity techniques to match user interests with the most suitable courses.
 
-# Features
-Smart Course Recommendations
+## Features
+#Smart Course Recommendations
    Suggests relevant courses based on user input using text similarity
-NLP-Based Processing
+#NLP-Based Processing
    Includes tokenization, stopword removal, lemmatization, and POS tagging
-TF-IDF Vectorization
+#TF-IDF Vectorization
    Converts text data into numerical form for similarity comparison
-Cosine Similarity Matching
+#Cosine Similarity Matching
    Finds the most relevant courses based on similarity scores
-Predefined Course Dataset
+#Predefined Course Dataset
    Includes curated AI, ML, and NLP-related courses
 
 #Technologies Used
