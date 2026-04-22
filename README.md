@@ -35,6 +35,11 @@ It leverages **Natural Language Processing (NLP)** and **text similarity techniq
 - Pandas  
 
 ---
+## Project Structure  
+learning-recommender/
+│
+├── learning_recommender.py # Main Python script
+└── README.md # Project documentation
 
 ---
 
@@ -47,9 +52,27 @@ It leverages **Natural Language Processing (NLP)** and **text similarity techniq
 5. Top 3 matching courses are recommended  
 
 ---
-
 ## Example Use Case  
 
 **Input:**  
+I want to learn deep learning and neural networks
 
-## Project Structure  
+**Output:**  
+Recommended Courses:
+
+Deep Learning and Neural Networks
+Machine Learning Basics
+Introduction to AI
+
+---
+
+## Note  
+
+- Ensure NLTK datasets are downloaded during execution  
+- Internet may be required initially for model downloads  
+
+---
+
+##  License  
+
+This project is open-source and free to use for educational purposes.
